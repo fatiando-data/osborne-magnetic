@@ -1,0 +1,21 @@
+name: fatiando-data-CHANGEME
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9
+  - pip
+  - numpy
+  - jupyterlab
+  - matplotlib
+  - xarray
+  - netcdf4
+  - pyproj
+  # PyGMT for plotting
+  - pygmt==0.4.1
+  - gmt==6.2.0
+  # Fatiando
+  - pooch>=1.0
+  - harmonica==0.4.*
+  - verde==1.6.1
+  - boule==0.3.*

@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+
+# It's a good idea to ignore the output files of prepare.ipynb to avoid
+# commiting them by mistake.
+*.csv.xz
+*.nc
