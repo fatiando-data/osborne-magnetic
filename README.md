@@ -15,8 +15,8 @@ their geology.
 | Version | [v1](https://github.com/fatiando-data/osborne-magnetic/releases/latest) |
 | DOI | https://doi.org/10.5281/zenodo.5882209 |
 | License | [CC-BY](https://creativecommons.org/licenses/by/4.0/) |
-| MD5 | `md5:a9e680c9b746065a7aea6dc82e198af5` |
-| SHA256 | `sha256:243b1f1ed784c8b175db41c546a6d77486fa5e8901def766fef43c04d18ee26a` |
+| MD5 | `md5:b26777bdde2f1ecb97dda655c8b1cf71` |
+| SHA256 | `sha256:12d4fc2c98c71a71ab5bbe5d9a82dd263bdbf30643ccf7832cbfec6249d40ded` |
 | Source | Geophysical Acquisition & Processing Section 2019. MIM Data from Mt Isa Inlier, QLD (P1029), magnetic line data, AWAGS levelled. Geoscience Australia, Canberra. http://pid.geoscience.gov.au/dataset/ga/142419 |
 | Original license | [CC-BY](http://pid.geoscience.gov.au/dataset/ga/142419) |
 | Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/osborne-magnetic/blob/main/prepare.ipynb) |
